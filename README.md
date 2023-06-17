@@ -1,6 +1,7 @@
 #screen_shots:
-![Screenshot (221)](https://github.com/krishnagptamcs/Hospital_dashboard/assets/121439479/94a91cf9-cce0-4bd7-8eec-c526c1c97719)
 
+
+![Screenshot (223)](https://github.com/krishnagptamcs/dashboard_project/assets/121439479/c77bd00b-061b-4285-a2a0-4ff42a012db6)
 
 
 # Getting Started with Create React App
