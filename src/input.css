@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family:"Helvetica";
+  src: url("./Text/Helvetica-Normal.ttf");
+
+}
+
+@font-face {
+  font-family:"Helvetica Rounded" ;
+  src: url("../src/Text/HelveticaRoundedLTStd-Black.otf");
+}
+
+
+
+
+
